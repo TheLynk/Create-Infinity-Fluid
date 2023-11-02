@@ -17,6 +17,7 @@ saves/
 schematics/
 screenshots/
 shaderpacks/
+emojiful/
 /.curseclient
 /options.txt
 /patchouli_data.json
@@ -27,3 +28,4 @@ shaderpacks/
 /ops.json
 /whitelist.json
 /observable_announce
+
