@@ -28,4 +28,6 @@ emojiful/
 /ops.json
 /whitelist.json
 /observable_announce
-
+/servers.dat
+/servers.dat_old
+/servers.essential.dat
