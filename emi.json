@@ -1,6 +1,32 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:dustrial_decor:red_neon_light",
+    "item:dustrial_decor:rainbow_neon_light",
+    "item:macawsbridgesbop:dead_rope_bridge_stair",
+    "item:macawsbridgesbop:rope_dead_bridge",
+    {
+      "type": "item",
+      "id": "alexscaves:cave_tablet",
+      "amount": 6
+    },
+    {
+      "type": "fluid",
+      "id": "createsweetsandtreets:applesyrup",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "decorative_blocks:thatch",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "create_confectionery:hot_chocolate",
+      "amount": 0
+    },
+    "item:buddingcrystals:crystal_catalyst",
+    "item:buddingcrystals:budding_nether_quartz",
     "item:minecraft:sentry_armor_trim_smithing_template",
     "item:minecraft:netherite_upgrade_smithing_template",
     "item:minecraft:netherite_pickaxe{Damage:0}",
@@ -9,7 +35,6 @@
     "item:darkutils:filter_raider",
     "item:minecraft:bamboo_block",
     "item:minecraft:stone",
-    "item:randomium:randomium",
     "item:create:empty_blaze_burner",
     "item:create:blaze_burner",
     "item:farmersdelight:cabbage_leaf",
@@ -91,17 +116,17 @@
   "craft_history": [],
   "recipe_defaults": {
     "added": [
-      "ae2:network/cells/item_cell_housing",
-      "minecraft:iron_block",
-      "minecraft:iron_axe",
-      "jei:/arseng/source_cell_housing",
       "dustrial_decor:large_chain",
-      "farmersdelight:cooked_bacon",
+      "farmersdelight:cabbage_from_leaves",
+      "jei:/ars_nouveau/imbuement_manipulation_essence",
       "ae2:decorative/quartz_glass",
+      "farmersdelight:cooked_bacon",
+      "jei:/arseng/source_cell_housing",
+      "ae2:network/cells/item_cell_housing",
       "ae2:network/cells/item_storage_components_cell_1k_part",
       "jei:/farmersdelight/integration/create/mixing/cabbage_slice_from_mixing",
-      "farmersdelight:cabbage_from_leaves",
-      "jei:/ars_nouveau/imbuement_manipulation_essence"
+      "minecraft:iron_block",
+      "minecraft:iron_axe"
     ],
     "tags": {},
     "resolutions": {},
