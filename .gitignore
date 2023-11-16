@@ -31,3 +31,10 @@ emojiful/
 /servers.dat
 /servers.dat_old
 /servers.essential.dat
+config/disable_new_world_screen_1.properties
+config/emi.css
+config/itlt-client.toml.bak
+config/libraryferret_1.properties
+config/rare-ice.properties
+config/sound_physics_remastered/occlusion.properties
+config/sound_physics_remastered/reflectivity.properties
