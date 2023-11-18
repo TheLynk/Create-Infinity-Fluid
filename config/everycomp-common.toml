@@ -168,6 +168,10 @@
 			sepia = true
 			nut = true
 
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
 [entries]
 
 	[entries.leaves_type]
