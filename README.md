@@ -10,5 +10,7 @@ Liste mod Client Seulement :
 
 
 Mod a pas mettre a jour pour raison de crash :
-- Every Compat (Wood Good) NO UPDATE MOD ! ! ! (crash modpack) version : everycomp-1.20-2.6.16.jar and everycomp-1.20-2.6.17.jar
-- YetAnotherConfigLib NO UPDATE MOD ! ! ! (Crash modpack) version : yet-another-config-lib-forge-3.2.0+1.20.jar and yet-another-config-lib-forge-3.2.1+1.20.jar
+- Every Compat (Wood Good) NO UPDATE MOD ! ! ! (crash modpack)
+-- version : everycomp-1.20-2.6.16.jar and everycomp-1.20-2.6.17.jar
+- YetAnotherConfigLib NO UPDATE MOD ! ! ! (Crash modpack)
+-- version : yet-another-config-lib-forge-3.2.0+1.20.jar and yet-another-config-lib-forge-3.2.1+1.20.jar
